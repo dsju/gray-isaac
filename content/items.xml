@@ -1,0 +1,5 @@
+<items gfxroot="gfx/items/" version="1">
+	<active description="Gray your destiny " gfx="gray_d6.png" maxcharges="6" name="Gray D6"/>
+	<active description="Regrayable regeneration" gfx="gray_yum_heart.png" maxcharges="4" name="Gray Yum Heart" />
+	<passive description="Gray up" gfx="gray_breakfast.png" hearts="2" maxhearts="2" name="Gray Breakfast" />
+</items>

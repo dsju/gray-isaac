@@ -1,0 +1,17 @@
+<players root="gfx/characters/costumes/" 
+         portraitroot="gfx/ui/boss/" 
+         nameimageroot="gfx/ui/boss/" 
+         bigportraitroot="gfx/ui/stage/">
+	
+	<player id="0" name="Gray Isaac" skin="character_001_isaac_grey.png" hp="6" bombs="1"
+          nameimage="PlayerName_01_Isaac.png" 
+          portrait="PlayerPortrait_gray_Isaac.png" 
+          bigportrait="PlayerPortraitBig_gray_Isaac.png" skinColor="4"
+		  birthright="not done" />
+
+	<player bSkinParent="Gray Isaac" name="Gray Isaac" skin="character_001b_isaac_grey.png" hp="6" bombs="1" costume="79"
+          nameimage="PlayerName_01_Isaac.png" 
+          portrait="PlayerPortrait_gray_Isaac_b.png" 
+          bigportrait="PlayerPortraitBig_gray_Isaac_b.png" skinColor="4"
+		  birthright="not done" />
+</players>
